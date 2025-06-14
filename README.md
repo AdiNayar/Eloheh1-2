@@ -59,7 +59,7 @@
   </ol>
 
   <h2>Contact Us</h2>
-  <p>If you have any questions or need further information, please <a href="mailto:info@eloheh.com" class="contact">contact me</a>.</p>
+  <p>If you have any questions or need further information, please <a href="mailto:anayar@purdue.edu" class="contact">contact me</a>.</p>
 
   <p class="last-modified">Last modified: <span id="lastModified"></span></p>
 
